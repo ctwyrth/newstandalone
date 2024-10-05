@@ -1,0 +1,11 @@
+.mat-mdc-card-outlined {
+  background-color: #fef7f7;
+}
+
+.active {
+  background-color: green;
+}
+
+.inactive {
+  background-color: red;
+}

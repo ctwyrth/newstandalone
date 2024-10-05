@@ -1,0 +1,24 @@
+.mat-mdc-card {
+  width: 100%;
+  margin: 10% auto;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+mat-card-actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 16px 16px;
+}
